@@ -46,6 +46,3 @@ def amount_helper(array, remainder, start, combination, result):
 
     return result
 
-
-print(amount([11, 1, 3, 2, 6, 1, 5], 8))
-# [[3, 5], [2, 6], [1, 2, 5], [1, 1, 6]]
